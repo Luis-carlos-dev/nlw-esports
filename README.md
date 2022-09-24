@@ -114,8 +114,8 @@ $ npm install
 # Execute o projeto
 $ npx expo start
 
-$ O Expo será aberto, basta escanear o qrcode no terminal ou na página do Expo
-$ Para executar o projeto mobile em seu smartphone baixe o Expo Go na [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US) para android ou na [App Store](https://apps.apple.com/br/app/expo-go/id982107779) para iphones
+$ O Expo será aberto, basta escanear o qrcode no terminal.
+$ Para executar o projeto mobile em seu smartphone baixe o Expo Go, disponível na GooglePlay e AppStore.
 ```
 
 ## :memo: Licença
