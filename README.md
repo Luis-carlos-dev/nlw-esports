@@ -6,7 +6,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -47,8 +47,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Para vizualisar o layout do projeto utilize a plataforma [Figma](https://www.figma.com/file/x8zI1YSYpRDd7dMKbjhahf/NLW-eSports-(Community)?node-id=0%3A1) 
 
-
-## ⚙️ Como executar
+## ⚙ Como executar
 
 Instale o [Git](https://git-scm.com/), [Node.js](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/). Logo após, digite os
 seguintes comandos no seu terminal.
